@@ -13,7 +13,6 @@ API: REST endpoints for future frontend/mobile integration
 
 💡 Features:
 Dynamic task creation and management
-
 Seamless form handling and routing
 
 Persistent data storage with JPA & MySQL
